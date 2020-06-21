@@ -23,6 +23,7 @@ Face recognition problems commonly fall into two categories:
 - Pandas
 - Keras
 - Numpy
+- Python 3.8
 
 # References
 
