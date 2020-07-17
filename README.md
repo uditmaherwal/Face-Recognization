@@ -19,8 +19,9 @@ Face recognition problems commonly fall into two categories:
 # Requirements
 
 - Jupyter-Notebook 
+- Python 3.8
 - Tensorflow
-- Pandas
+- Pandas 
 - Keras
 - Numpy
 
